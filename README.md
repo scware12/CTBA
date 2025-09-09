@@ -21,7 +21,7 @@ Data Dictionary:
         - 'neighbourhood': Neighborhood name
     -Neighborhoods GeoJSON
         -'properties.neighbourhood': Name of neighbourhood
-    -NYC Shooting Incididents
+    -NYC Shooting Incidents
         -'OCCUR_DATE': Date of shooting
         -'OCCUR_TIME': TIme of shooting
         -'Latitude': Latitude coordinates
@@ -41,5 +41,5 @@ AI Usage Appendix
     - Can you explain why there is an error with my chart display code on page1 and highlight steps I can take to fix it?
     - How can I import a bootswatch template to style my dash home page, page1, and page2?
     - What is currently wrong with my graph titles?
-- Where AI output was used: AI was used to fill gaps within our code that produced errors and portion of data dictionary
+- Where AI output was used: AI was used to fill gaps within our code that produced errors, code structure, and portion of data dictionary
 - What you verified/edited: We verified that all code assistance from AI was correct and properly ran. If the code was incorrect or would not run, we made sure to make edits before finalizing

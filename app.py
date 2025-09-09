@@ -5,7 +5,7 @@ import dash_bootstrap_components as dbc
 #initialize the app
 app = Dash(__name__, use_pages=True, suppress_callback_exceptions=True, 
            title = "Multiple Pages App", external_stylesheets=[dbc.themes.LUX])
-server = app.server# for deployment
+server = app.server  # for deployment
 
 app.layout = html.Div([
     dbc.NavbarSimple(
