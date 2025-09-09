@@ -5,8 +5,8 @@ Project overview (problem, audience, value)
 
 
 How to run (local + deploy notes)
-- render link
-- git link for repos
+- [render link](https://airbnb-and-crime.onrender.com)
+- [git link for repos](https://github.com/scware12/CTBA/)
 
 Data sources & data dictionary
 - Bootswatch LUX style
